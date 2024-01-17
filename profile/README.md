@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AVG Tea,</h1>
+<h1 align="center">Hi 👋, I'm AVG Team</h1>
 <h3 align="center">AVG Team from Hutech Viet Nam</h3>
 
 - 🔭 I’m currently working on [AVG Team](https://github.com/AVG-Team)
